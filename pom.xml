@@ -9,7 +9,7 @@
     <version>1.2</version>
     <properties>
         <yunpian_version>1.2.7</yunpian_version>
-        <fastjson_version>1.2.6</fastjson_version>
+        <fastjson_version>1.2.31</fastjson_version>
         <codec_version>1.10</codec_version>
         <io_version>2.4</io_version>
         <lang3_version>3.4</lang3_version>
